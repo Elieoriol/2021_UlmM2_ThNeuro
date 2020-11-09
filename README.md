@@ -7,3 +7,5 @@ TD material for the 2020-2021 M2 Theoretical Neuroscience course.
 - **TD3**	Models of Neurons III: Firing rate adaptation, Shunting inhibition
 - **TD3b**	Models of Neurons IV: Simulation of Hodgkin-Huxley model, Subthreshold resonance
 - **TD4**	Synapses: STD, STDP and Poisson process
+- **TD5**	Balanced Networks: Poisson process, Noisy LIF, Balanced network with Poisson inputs
+
