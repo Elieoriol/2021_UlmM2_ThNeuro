@@ -9,4 +9,4 @@ TD material for the 2020-2021 M2 Theoretical Neuroscience course.
 - **TD4**	Synapses: STD, STDP and Poisson process
 - **TD5**	Balanced Networks: Poisson process, Noisy LIF, Balanced network with Poisson inputs
 - **TD6**	Rate Models: Ring model with order parameters
-
+- **TD7**	Learning I: Perceptron model & algorithm
